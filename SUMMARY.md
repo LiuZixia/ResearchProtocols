@@ -19,5 +19,7 @@
 ## Lab Analysis
 
 * [2.1.Water Chemical Analysis](lab-analysis/2.1.water-chemical-analysis.md)
-* [2.2.Ecological Analysis](lab-analysis/2.2.ecological-analysis.md)
+* [2.2.Ecological Analysis](lab-analysis/2.2.ecological-analysis/README.md)
+  * [2.2.1.qPCR for Phytoplankton Community](lab-analysis/2.2.ecological-analysis/2.2.1.qpcr-for-phytoplankton-community/README.md)
+    * [2.2.1.1.qPCR with Seawater Sample](lab-analysis/2.2.ecological-analysis/2.2.1.qpcr-for-phytoplankton-community/2.2.1.1.qpcr-with-seawater-sample.md)
 
