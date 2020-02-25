@@ -24,12 +24,13 @@
   * [2.2.1.qPCR Analysis](2/2/1/README.md)
     * [2.2.1.1.Sapmle Preparation](2/2/1/1.md)
     * [2.2.1.2.DNA Extraction](2/2/1/2.md)
-    * [2.2.1.4.qPCR](2/2/1/2.md)
+    * [2.2.1.4.qPCR](2/2/1/4.md)
   * [2.2.2.Metagenomic Analysis](2/2/2.md)
 
 ## Lab Experiment
 
-* [3.1.Microcosmic Experiment](lab-experiment/1.md)
+* [3.1.Microcosmic Experiment](lab-experiment/1/README.md)
+  * [3.1.1.Introduction](lab-experiment/1/1.md)
 * [3.2.MART Experiment](lab-experiment/2.md)
 * [3.3.A&T Experiment](lab-experiment/3.md)
 * [3.4.Human Cell Experiment](lab-experiment/4.md)
