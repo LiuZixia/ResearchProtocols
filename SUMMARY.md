@@ -23,7 +23,8 @@
 * [2.2.Ecological Analysis](2/2/README.md)
   * [2.2.1.qPCR Analysis](2/2/1/README.md)
     * [2.2.1.1.Sapmle Preparation](2/2/1/1.md)
-    * [2.2.1.2.qPCR](2/2/1/2.md)
+    * [2.2.1.2.DNA Extraction](2/2/1/2.md)
+    * [2.2.1.4.qPCR](2/2/1/4.md)
   * [2.2.2.Metagenomic Analysis](2/2/2.md)
 
 ## Lab Experiment
